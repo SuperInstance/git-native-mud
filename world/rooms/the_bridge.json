@@ -1,0 +1,23 @@
+{
+  "name": "The Bridge",
+  "description": "The nerve center of the Cocapn Lighthouse. A room full of radar scopes, each manned by a specialist controller. The air hums with quiet chatter \u2014 sector reports, handoff confirmations, the occasional sharp alert. Coffee cups everywhere. The floor supervisor walks between stations, touching shoulders, asking short questions, getting short answers. Through the window, the radar tower sweeps its beam across the fleet. When something breaks, a voice cuts across the room and everyone listens.",
+  "exits": {
+    "down": "Fleet Operations Center",
+    "up": "Lighthouse Tower",
+    "east": "ATC Radar Room"
+  },
+  "items": [
+    "radar_scope_array",
+    "sector_consoles",
+    "frequency_selectors",
+    "alert_board",
+    "handoff_log",
+    "cold_coffee"
+  ],
+  "notes": [
+    "Sector controllers handle routine. Supervisor handles exceptions.",
+    "Shorthand develops over weeks \u2014 learn it or ask twice.",
+    "When the room goes loud, listen. Something broke.",
+    "Shift changes are handoffs. The sector never goes dark."
+  ]
+}
