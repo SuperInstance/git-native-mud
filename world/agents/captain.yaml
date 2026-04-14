@@ -1,0 +1,10 @@
+name: Captain
+location: helm
+hp: 20
+max_hp: 20
+battery: 100
+inventory:
+- captains_log
+alive: true
+role: command
+initiative_bonus: 3
