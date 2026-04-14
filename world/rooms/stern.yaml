@@ -1,0 +1,10 @@
+name: Stern Deck
+description: The haul-back station. Where the fish come aboard. Drum winch, sorting
+  table, ice hold hatch.
+exits:
+  north: deck
+items:
+- gaff
+- fish_club
+- scale
+agents: []
