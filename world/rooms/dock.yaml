@@ -1,8 +1,10 @@
 name: South Dock
-description: Salt spray blows off the black ocean. Gangplank leads north.
+description: Salt spray blows off the black ocean. A gangplank leads north. The vessel
+  is tied up alongside.
 exits:
   north: bridge
   east: cargo_hold
+  south: deck
 items:
 - docking_rope
 - life_ring
