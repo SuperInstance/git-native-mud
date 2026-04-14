@@ -1,0 +1,7 @@
+{
+  "name": "ATC Radar Room",
+  "description": "Dark room, cool air. The radar scope glows green in the center, phosphor blips ticking slowly across. Coffee is cold but you haven't noticed. Your chair faces the scope — the room is arranged around it. Frequency selectors on the left, weather printer on the right. The blips tell stories if you watch them long enough. Each one is someone's family in a small plane trusting the pattern.",
+  "exits": {"radio": "Super Cub Cockpit", "window": "Tower View"},
+  "items": ["radar_scope", "frequency_selector", "weather_printer", "flight_strips", "binoculars", "coffee_cold"],
+  "notes": ["Watch the blips for 3 cycles before predicting", "My precision is my grouping — know the coin size", "Estimate over, not under, for delays"]
+}
