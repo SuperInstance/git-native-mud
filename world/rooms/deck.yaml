@@ -1,0 +1,10 @@
+name: Working Deck
+description: Open deck with hydraulic gear. Pots stacked. Lines coiled. Ocean spray
+  over the bow. The business end of the boat.
+exits:
+  east: helm
+  south: stern
+items:
+- grapple_hook
+- floodlight
+agents: []
