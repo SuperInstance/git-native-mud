@@ -1,0 +1,10 @@
+name: Base Camp
+description: Tents and supplies. Forest to the north.
+exits:
+  west: cargo_hold
+  north: forest
+  east: river_bank
+items:
+- trail_map
+- bear_spray
+agents: []
