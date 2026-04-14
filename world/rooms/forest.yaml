@@ -1,0 +1,8 @@
+name: Old Growth Forest
+description: Massive spruce. Moss everywhere. Bird calls.
+exits:
+  south: base_camp
+  east: crystal_cavern
+items:
+- mushroom
+agents: []
