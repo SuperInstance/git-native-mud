@@ -1,0 +1,11 @@
+name: Deckhand
+location: deck
+hp: 12
+max_hp: 12
+battery: 100
+inventory:
+- gloves
+- knife
+alive: true
+role: operations
+initiative_bonus: 2
