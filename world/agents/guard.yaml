@@ -1,0 +1,7 @@
+name: Guard
+location: bridge
+hp: 14
+max_hp: 14
+battery: 100
+inventory: []
+alive: true
