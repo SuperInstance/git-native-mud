@@ -1,0 +1,7 @@
+name: River Bank
+description: Cold clear water. Salmon flash silver beneath the surface.
+exits:
+  west: base_camp
+items:
+- river_stone
+agents: []
