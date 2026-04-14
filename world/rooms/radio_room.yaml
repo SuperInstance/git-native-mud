@@ -1,0 +1,10 @@
+name: Radio Room
+description: VHF crackles with fleet traffic. Weather fax prints slowly. Emergency
+  frequencies monitored.
+exits:
+  west: helm
+  south: sonar_station
+items:
+- radio_log
+- weather_fax
+agents: []
