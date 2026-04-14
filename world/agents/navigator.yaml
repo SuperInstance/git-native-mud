@@ -1,0 +1,10 @@
+name: Navigator
+location: nav_station
+hp: 12
+max_hp: 12
+battery: 100
+inventory:
+- chart_pencil
+alive: true
+role: navigation
+initiative_bonus: 1
