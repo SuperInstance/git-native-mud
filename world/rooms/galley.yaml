@@ -1,0 +1,11 @@
+name: Galley
+description: Coffee pot always on. Salted fish on the cutting board. The social hub
+  of any boat.
+exits:
+  north: nav_station
+  east: sonar_station
+  west: bunk_room
+items:
+- coffee
+- fish sandwich
+agents: []
