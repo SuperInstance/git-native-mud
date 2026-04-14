@@ -1,0 +1,7 @@
+name: Oracle1
+location: dock
+hp: 15
+max_hp: 15
+battery: 100
+inventory: []
+alive: true
