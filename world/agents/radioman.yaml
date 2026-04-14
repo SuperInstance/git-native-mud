@@ -1,0 +1,10 @@
+name: Radio Operator
+location: radio_room
+hp: 10
+max_hp: 10
+battery: 100
+inventory:
+- radio_log
+alive: true
+role: communications
+initiative_bonus: 1
