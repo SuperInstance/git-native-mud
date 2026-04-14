@@ -1,0 +1,9 @@
+name: Bunk Room
+description: Four narrow bunks. Wet gear hangs from hooks. Smells like diesel and
+  rain.
+exits:
+  east: galley
+items:
+- dry_socks
+- novel
+agents: []
