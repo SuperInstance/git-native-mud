@@ -1,0 +1,22 @@
+name: Solitaire Lounge
+description: A quiet room with a card table. Green felt, well-worn cards. The crew
+  plays here during long transits. Type 'look' to see the board.
+exits:
+  west: galley
+  south: bunk_room
+items:
+- deck_of_cards
+agents: []
+bridge: solitaire
+bridge_type: game
+bridge_commands:
+- look
+- draw
+- move waste to foundation N
+- move waste to tableau N
+- move col N to foundation M
+- move col N to col M
+- auto
+- hint
+- new
+- score
