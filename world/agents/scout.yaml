@@ -1,0 +1,7 @@
+name: Scout
+location: dock
+hp: 10
+max_hp: 10
+battery: 100
+inventory: []
+alive: true
