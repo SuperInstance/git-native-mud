@@ -1,0 +1,9 @@
+name: Sonar Station
+description: 'Green phosphor screen shows depth contours. Fish finders ping. Bottom
+  composition reads: gravel and rock.'
+exits:
+  north: radio_room
+  west: galley
+items:
+- sonar_log
+agents: []
