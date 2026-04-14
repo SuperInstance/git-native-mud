@@ -1,0 +1,10 @@
+name: Cargo Hold
+description: Crates floor to ceiling. Fish and machine oil.
+exits:
+  west: dock
+  east: base_camp
+items:
+- fishing_rod
+- compass
+- rope
+agents: []
