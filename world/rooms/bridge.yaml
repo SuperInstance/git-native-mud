@@ -1,0 +1,9 @@
+name: Bridge
+description: Worn captain's chair. Controls flicker in dim light.
+exits:
+  north: sensor_deck
+  south: dock
+  east: engine_room
+items:
+- binoculars
+agents: []
