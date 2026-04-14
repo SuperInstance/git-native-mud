@@ -1,0 +1,10 @@
+name: Engine Room Access
+description: Ladder down to the engine room. The diesel thrums through the hull. Tools
+  organized on pegboard.
+exits:
+  west: nav_station
+  down: engine_room
+items:
+- ear_protection
+- dipstick
+agents: []
