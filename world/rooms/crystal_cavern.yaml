@@ -1,0 +1,7 @@
+name: Crystal Cavern
+description: Resonant crystals hum. Beautiful and dangerous.
+exits:
+  west: forest
+items:
+- crystal_shard
+agents: []
