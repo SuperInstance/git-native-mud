@@ -1,0 +1,8 @@
+name: Engine Room
+description: Diesel hum. Pipes drip. Warm and loud.
+exits:
+  west: bridge
+items:
+- wrench
+- oil_can
+agents: []
