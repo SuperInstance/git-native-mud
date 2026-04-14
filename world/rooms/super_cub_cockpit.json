@@ -1,0 +1,7 @@
+{
+  "name": "Super Cub Cockpit",
+  "description": "The smell of avgas and old leather. The panel glows with warm amber light — six-pack instruments in a row, steam gages with needles that quiver. The yoke is worn smooth. Through the windshield, the world tilts as you bank. Far below, the runway is a thin grey stripe getting wider. Your passengers are quiet in the back seat, watching. The radio crackles.", 
+  "exits": {"radio": "ATC Radar Room", "outside": "The Sky"},
+  "items": ["airspeed_indicator", "altimeter", "vertical_speed", "heading_indicator", "fuel_gage", "engine_gages", "radio", "yoke", "throttle", "flaps_control", "checklist"],
+  "notes": ["Feel the seat — it tells you what the gages haven't shown yet", "Rates of change matter more than absolute values", "The wind is not your enemy, it's just reality pushing back"]
+}
