@@ -1,0 +1,7 @@
+name: Astro Observatory
+description: Dome opens to stars. Charts cover every surface.
+exits:
+  south: sensor_deck
+items:
+- star_chart
+agents: []
