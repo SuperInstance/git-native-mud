@@ -1,0 +1,8 @@
+name: Sensor Deck
+description: Radar sweeps green. Radio crackles.
+exits:
+  south: bridge
+  north: astro_observatory
+items:
+- signal_flare
+agents: []
