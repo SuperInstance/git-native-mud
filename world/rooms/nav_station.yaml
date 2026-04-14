@@ -1,0 +1,11 @@
+name: Navigation Station
+description: Charts spread across the plotting table. GPS shows coordinates. Radar
+  sweeps. Pencil marks track the fleet.
+exits:
+  north: helm
+  east: engine_room_bridge
+  south: galley
+items:
+- sextant
+- chart_table
+agents: []
