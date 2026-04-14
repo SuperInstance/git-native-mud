@@ -1,0 +1,11 @@
+name: Helm Station
+description: The wheel turns under steady hands. Compass spins. Depth finder reads
+  40 fathoms. The captain's chair overlooks all stations.
+exits:
+  south: nav_station
+  east: radio_room
+  west: deck
+items:
+- helm_log
+- binoculars
+agents: []
