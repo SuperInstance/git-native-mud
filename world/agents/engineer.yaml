@@ -1,0 +1,11 @@
+name: Engineer
+location: engine_room_bridge
+hp: 14
+max_hp: 14
+battery: 100
+inventory:
+- wrench
+- oil_can
+alive: true
+role: engineering
+initiative_bonus: 0
