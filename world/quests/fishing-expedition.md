@@ -6,7 +6,7 @@ services: [navigator, deckhand]
 
 requires:
 - fishing_rod: obtained from cargo hold
-- river_access: navigator plots course to river bank
+- river_access: navigator plots course
 
 ensures:
 - catch: 1-5 random salmon

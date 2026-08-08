@@ -10,7 +10,7 @@ requires:
 
 ensures:
 - course: optimal path plotted
-- hazards: dangers along route
+- hazards: dangers identified
 - eta: estimated arrival time
 
 strategies:

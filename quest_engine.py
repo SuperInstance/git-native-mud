@@ -102,7 +102,7 @@ class QuestEngine:
                 agent.setdefault("inventory", []).append(reward)
         
         self._save_agent(agent_id, agent)
-        self.completed.append({"agent": agent_id, "quest": quest["name"], "time": datetime.utcnow().isoformat()})
+        self.completed.append({"agent": agent_id, "quest": quest["name"], "time": datetime.now(tz=None).astimezone().isoformat()})
     
     def apply_strategies(self, agent_id, quest, situation):
         """Apply matching strategies based on current situation."""
