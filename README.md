@@ -131,4 +131,5 @@ python3 mud_engine.py
 
 ---
 
-<img src="callsign1.jpg" width="128" alt="callsign">
+> **Note:** this README previously displayed a `callsign1.jpg` image, but no such file (and no image assets at all) exist in this repo — verified against the working tree and git history. The broken image tag was removed.
+
