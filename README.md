@@ -1,5 +1,9 @@
 # Git-Native MUD
 
+<p align="center">
+  <img src="assets/hero.jpg" alt="The world as a night library — every room a ledger, every action a commit" width="720">
+</p>
+
 **The repo IS the world. Commits ARE actions. No server needed.**
 
 ## Overview
